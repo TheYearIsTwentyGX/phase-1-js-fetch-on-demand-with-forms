@@ -1,4 +1,5 @@
 const init = () => {
+    const form = document.querySelector('form');
   
 }
 
